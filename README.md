@@ -44,3 +44,4 @@ STEP 6: Use zscore of to remove outliers
 
 
 # Result
+Thus the data cleaning process on the given dataset is executed successfully.
